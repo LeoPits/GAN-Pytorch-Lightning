@@ -14,10 +14,10 @@
 
 ## Requirements
 
-- [pytorch]
-- [torchvision]
-- [numpy]
-- [Tensorboard]
+- pytorch
+- torchvision
+- numpy
+- tensorboard
 
 
 
