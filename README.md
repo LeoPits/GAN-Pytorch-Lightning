@@ -6,17 +6,20 @@
 
 
 
-
-## Immagini e GIF
-
 ![Recordit GIF](https://www.tensorflow.org/images/gan/dcgan.gif)
 
-# Indice
 
-- [Come iniziare](#come-iniziare)
-- [Come contribuire](#come-contribuire)
-- [Manutenzione](#manutenzione)
-- [Licenza](#licenza)
+
+
+
+## Requirements
+
+- [pytorch]
+- [torchvision]
+- [numpy]
+- [Tensorboard]
+
+
 
 
 
