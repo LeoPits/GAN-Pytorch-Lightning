@@ -12,8 +12,7 @@
 
 - **DCGAN 64x64** :Simple implementation a GAN whose Generator and Discriminator are convolutional neural networks
 
-- **WGAN 64x64** :  Wasserstein GAN, an alternative to traditional GAN training. Use Wasserstein loss to train the discriminator and generator models that promote larger difference between scores for real and generated images.
-
+- **WGAN 64x64** :  Wasserstein GAN, an alternative to traditional GAN training. Changes the standard loss with Wasserstein loss to train the discriminator and generator models. That promotes larger difference between scores for real and generated images.
 
 
 
