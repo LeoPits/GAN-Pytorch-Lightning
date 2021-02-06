@@ -9,6 +9,10 @@
 # Annunci / Status del progetto
 
 # Pytorch
+
+![alt text](https://github.com/LeoPits/Pytorch/blob/main/docs/lightning_logo-name.svg?raw=true)
+
+
 This example implements the paper Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
 The implementation is very close to the Torch implementation dcgan.torch
 After every 100 training iterations, the files real_samples.png and fake_samples.png are written to disk with the samples from the generative model.
